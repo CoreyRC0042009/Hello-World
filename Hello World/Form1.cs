@@ -31,5 +31,15 @@ namespace Hello_World
         {
 
         }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("in a bit lad");
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello Corey");
+        }
     }
 }
